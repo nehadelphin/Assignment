@@ -24,7 +24,7 @@ Given('Enter Zip: {int}', function (zip) {
    console.log(zip)
 });
 
-Given('Enter Password: {word}', function (pwd) {
+Given('Enter Password:{word}', function (pwd) {
    console.log(pwd)
 });
 
